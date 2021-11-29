@@ -1,0 +1,14 @@
+How to upolad file to github using git cammand like a pro!!:>>
+
+1-right click git bash
+2-git status........for checking is freaking git here?
+3-git init.........for insert freaking git!!!!
+4-git add ..........for add git oops!
+5-git comit -m "add git-note"   ...... for comit "git-note" file to github
+6-git status.......again for checking
+7-git log .......for detail
+
+8-create respitory new in github
+9- copy paste 3 push command line from git hub
+
+Done mother father!
